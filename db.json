@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 5,
+      "name": "Golu",
+      "username": "efwjk343",
+      "phone": "5355"
+    },
+    {
+      "id": 4,
+      "name": "Golu1",
+      "username": "efwjk343",
+      "phone": "5355"
+    },
+    {
+      "id": 3,
+      "name": "Golu2",
+      "username": "efwjk343",
+      "phone": "5355"
+    },
+    {
+      "id": 2,
+      "name": "Golu2",
+      "username": "efwjk343",
+      "phone": "5355"
+    },
+    {
+      "id": 1,
+      "name": "Golu4",
+      "username": "efwjk343",
+      "phone": "5355"
+    },
+    {
+      "id": 6,
+      "name": "Golu5",
+      "username": "efwjk343",
+      "phone": "5355"
+    },
+    {
+      "id": 7,
+      "name": "Jhon kally",
+      "phone": "9999955964433"
+    },
+    {
+      "id": 8,
+      "name": "Tushar Rajput house",
+      "phone": "32323433"
+    }
+  ]
+}
